@@ -1,1 +1,2 @@
 this is first demo file of git
+version 2
