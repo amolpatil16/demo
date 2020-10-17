@@ -1,2 +1,2 @@
 # demo
-test application
+test app for git command demonstration
